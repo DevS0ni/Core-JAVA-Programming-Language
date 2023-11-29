@@ -1,1 +1,1 @@
-# ITC-Core JAVA Programming Language
+# ITC - Core JAVA Programming Language Course
